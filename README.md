@@ -1,2 +1,2 @@
-# Platformer-JS-Unity
-Platformer JS scripts for Unity
+# Platformer-JS
+Platformer JS scripts
